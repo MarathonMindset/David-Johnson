@@ -1,7 +1,7 @@
 # David Johnson
 
 
-# Summary
+# Summary 
 3+ years of combined experience in the areas of credit risk analysis, customer service, and business operations. I have been immersed in high-growth operations roles and have been able to exceed my work KPI’s with an upward trend in personal and professional development.
 
 # Professional Experience
