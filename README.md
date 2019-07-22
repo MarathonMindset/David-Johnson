@@ -34,7 +34,7 @@ Vice President of Professional Events (December 2014 – December 2015)
 *	Onboarded and trained new students on event planning, business career paths, and leadership within the organization
 
 # Education
-BA in Business Administration (2015) at Concordia University Irvine, CA
+*BA in Business Administration (2015) at Concordia University Irvine, CA
 
 # Skills
-Leadership, Training, Excellent Listening and Interpersonal Skills, CRM, Negotiation, Customer Service, Tableau, ZenDesk, Business Development, Sales Operations, Excel, Payment Processing
+*Leadership, Training, Excellent Listening and Interpersonal Skills, CRM, Negotiation, Customer Service, Tableau, ZenDesk, Business Development, Sales Operations, Excel, Payment Processing
