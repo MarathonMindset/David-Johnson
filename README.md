@@ -9,8 +9,8 @@
 
 # LendingClub
 # Credit Risk Specialist – Auto (Current)
-*	Communicate actively internally between various departments and with 3rd parties to authenticate current data 
-* Worked together with internal stakeholders to update change various current credit policies for auto products.
+*	Communicate with internal departments and with 3rd parties to authenticate current data
+* Worked together with internal stakeholders to update change various current credit policies for auto products when needed
 * Actively participated in small group product testing focused on simplifying the customer experience and improving credit standards
 
 # Credit Risk Specialist (June 2018 – April 2019) 
@@ -37,4 +37,4 @@ Vice President of Professional Events (December 2014 – December 2015)
 *BA in Business Administration (2015) at Concordia University Irvine, CA
 
 # Skills
-*Leadership, Training, Excellent Listening and Interpersonal Skills, CRM, Negotiation, Customer Service, Tableau, ZenDesk, Business Development, Sales Operations, Excel, Payment Processing
+Leadership, Training, Excellent Listening and Interpersonal Skills, CRM, Negotiation, Customer Service, Tableau, ZenDesk, Business Development, Sales Operations, Excel, Payment Processing
