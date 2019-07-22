@@ -29,7 +29,8 @@
 *	Managed individual client needs and presented additional insurance products or services beneficial to the client, which resulted in $159,016 of sales in my first year
 *	Insurance field underwriting (B2B) and policy retention/renewals in highly regulated industry
 *	Auto loan underwriting, Auto, Home, Life, Health, Notary
-Delta Sigma Pi – International Co-Ed Fraternity 
+
+# Delta Sigma Pi – International Co-Ed Fraternity 
 Vice President of Professional Events (December 2014 – December 2015)
 *	Onboarded and trained new students on event planning, business career paths, and leadership within the organization
 
