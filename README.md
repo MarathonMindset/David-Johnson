@@ -1,4 +1,6 @@
 # David Johnson
+ San Francisco, CA
+ 
 [LinkedIn](https://www.linkedin.com/in/therealdavidjohnson/) 
 
 
